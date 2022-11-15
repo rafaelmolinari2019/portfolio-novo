@@ -19,11 +19,8 @@ header{
     font-style: italic;
     font-family: verdana;
 }
-.home{
-    text-decoration: none;
-    color: blue;
-    font-style: italic;
-    font-family: verdana;
+.seta{
+    width: 50px;
 }
 .texto-meio{
     text-align: center;
@@ -106,6 +103,12 @@ footer{
     margin-top: auto;
     background-color: blueviolet;
     padding: 1%;
+}
+.contato{
+    margin-top: 25%;
+    background-color: blueviolet;
+    padding: 1%;
+
 }
 .link{
     width: 7%;
