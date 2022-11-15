@@ -19,6 +19,12 @@ header{
     font-style: italic;
     font-family: verdana;
 }
+.home{
+    text-decoration: none;
+    color: blue;
+    font-style: italic;
+    font-family: verdana;
+}
 .texto-meio{
     text-align: center;
     margin-top: 15%;
